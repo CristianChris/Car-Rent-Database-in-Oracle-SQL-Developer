@@ -35,6 +35,8 @@ If you want to use this structure of database you just have to run the [Database
 
 To insert information into the tables you can use either manual method or again SQL Worksheet. I have generated some random [data](https://github.com/CristianChris/Car-Rent-Database-in-Oracle-SQL-Developer/blob/master/data/Data_for_testing_queries_random_generated.sql) for each tables that you can use to test the queries that you want to implement.
 
+Here is a script(https://github.com/CristianChris/Car-Rent-Database-in-Oracle-SQL-Developer/blob/master/data/erase%20script.txt) that you may use to delete all the information from your database including the data from table and tables in general. To run this script just paste it in the SQL Worksheet.
+
 ##References
 [Report](https://github.com/CristianChris/Car-Rent-Database-in-Oracle-SQL-Developer/blob/master/Report_rent_a_car_DB.pdf)
 
