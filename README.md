@@ -28,7 +28,7 @@ There are no loops in data model.
 
 [Data for testing queries random generated](https://github.com/CristianChris/Car-Rent-Database-in-Oracle-SQL-Developer/blob/master/data/Data_for_testing_queries_random_generated.sql)
 
-## Installation
+## Instructions
 In order to do some changes in this particular database you need to have [Oracle SQL developer](http://www.oracle.com/technetwork/developer-tools/sql-developer/overview/index-097090.html) installed. After you need to download the [SQL project](https://github.com/CristianChris/Car-Rent-Database-in-Oracle-SQL-Developer/blob/master/data/Car_Rent_Model_Oracle_SQL_Developer_Project.zip). Once Oracle SQL developer is installed you can open this project and to the changes you want.
 
 If you want to use this structure of database you just have to run the [Database creation scritpt](https://github.com/CristianChris/Car-Rent-Database-in-Oracle-SQL-Developer/blob/master/data/database_creation_script.sql) in your SQL Worksheet. This script will generate the tables.
