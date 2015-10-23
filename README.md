@@ -17,11 +17,10 @@ There are no loops in data model.
 ![alt tag](https://github.com/CristianChris/Car-Rent-Database-in-Oracle-SQL-Developer/blob/master/img/Relational%20model.png "Relational model")
 
 
-##[SQL Statements + Relational Algebra](https://github.com/CristianChris/Car-Rent-Database-in-Oracle-SQL-Developer/blob/master/SQL_querys/SQL_Statements%2BRelational_Algebra.pdf)
+##[SQL Statements + Relational Algebra(click on me)](https://github.com/CristianChris/Car-Rent-Database-in-Oracle-SQL-Developer/blob/master/SQL_querys/SQL_Statements%2BRelational_Algebra.pdf)
 
-![alt tag](https://github.com/CristianChris/Car-Rent-Database-in-Oracle-SQL-Developer/blob/master/SQL_querys/SQL_Statements%2BRelational_Algebra.pdf "Relational model")
+##[SQL Statements Cover(click on me)](https://github.com/CristianChris/Car-Rent-Database-in-Oracle-SQL-Developer/blob/master/SQL_querys/SQL_Statements_Cover.pdf)
 
-##SQL Statements Cover
 SQL_Developer project
 Database creation scritpt
 Input data of this database
