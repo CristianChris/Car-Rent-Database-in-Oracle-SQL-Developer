@@ -35,26 +35,7 @@ If you want to use this structure of database you just have to run the [Database
 
 To insert information into the tables you can use either manual method or again SQL Worksheet. I have generated some random [data](https://github.com/CristianChris/Car-Rent-Database-in-Oracle-SQL-Developer/blob/master/data/Data_for_testing_queries_random_generated.sql) for each tables that you can use to test the queries that you want to implement.
 
-## Usage
+##References
+[Report](https://github.com/CristianChris/Car-Rent-Database-in-Oracle-SQL-Developer/blob/master/Report_rent_a_car_DB.pdf)
+[Sample of the DB project] (https://users.fit.cvut.cz/~valenta/bie-dbs/sem-project/index.html)
 
-TODO: Write usage instructions
-
-## Contributing
-
-1. Fork it!
-2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request :D
-
-## History
-
-TODO: Write history
-
-## Credits
-
-TODO: Write credits
-
-## License
-
-TODO: Write license
