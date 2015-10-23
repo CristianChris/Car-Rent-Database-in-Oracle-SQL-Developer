@@ -21,14 +21,19 @@ There are no loops in data model.
 
 ##[SQL Statements Cover(click on me)](https://github.com/CristianChris/Car-Rent-Database-in-Oracle-SQL-Developer/blob/master/SQL_querys/SQL_Statements_Cover.pdf)
 
-SQL_Developer project
-Database creation scritpt
-Input data of this database
 ##Scripts
+[SQL project](https://github.com/CristianChris/Car-Rent-Database-in-Oracle-SQL-Developer/blob/master/data/Car_Rent_Model_Oracle_SQL_Developer_Project.zip)
+
+[Database creation scritpt](https://github.com/CristianChris/Car-Rent-Database-in-Oracle-SQL-Developer/blob/master/data/database_creation_script.sql)
+
+[Data for testing queries random generated](https://github.com/CristianChris/Car-Rent-Database-in-Oracle-SQL-Developer/blob/master/data/Data_for_testing_queries_random_generated.sql)
 
 ## Installation
+In order to do some changes in this particular database you need to have [Oracle SQL developer](http://www.oracle.com/technetwork/developer-tools/sql-developer/overview/index-097090.html) installed. After you need to download the [SQL project](https://github.com/CristianChris/Car-Rent-Database-in-Oracle-SQL-Developer/blob/master/data/Car_Rent_Model_Oracle_SQL_Developer_Project.zip). Once Oracle SQL developer is installed you can open this project and to the changes you want.
 
-TODO: Describe the installation process
+If you want to use this structure of database you just have to run the [Database creation scritpt](https://github.com/CristianChris/Car-Rent-Database-in-Oracle-SQL-Developer/blob/master/data/database_creation_script.sql) in your SQL Worksheet. This script will generate the tables.
+
+To insert information into the tables you can use either manual method or again SQL Worksheet. I have generated some random [data](https://github.com/CristianChris/Car-Rent-Database-in-Oracle-SQL-Developer/blob/master/data/Data_for_testing_queries_random_generated.sql) for each tables that you can use to test the queries that you want to implement.
 
 ## Usage
 
