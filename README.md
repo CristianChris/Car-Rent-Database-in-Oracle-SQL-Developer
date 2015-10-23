@@ -37,5 +37,6 @@ To insert information into the tables you can use either manual method or again 
 
 ##References
 [Report](https://github.com/CristianChris/Car-Rent-Database-in-Oracle-SQL-Developer/blob/master/Report_rent_a_car_DB.pdf)
+
 [Sample of the DB project] (https://users.fit.cvut.cz/~valenta/bie-dbs/sem-project/index.html)
 
